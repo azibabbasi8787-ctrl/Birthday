@@ -1,0 +1,8 @@
+{
+  "name": "Farha’s Magical Birthday Surprise",
+  "description": "Create a personalized, enchanting, and interactive birthday website designed to celebrate Farha with joy, animations, and heartfelt memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
